@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vishal.chatapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChatApp">
+        <activity android:name="com.vishal.chatapp.specificchat"></activity>
+        <activity android:name="com.vishal.chatapp.UpdateProfile" />
+        <activity android:name="com.vishal.chatapp.ProfileActivity" />
+        <activity android:name="com.vishal.chatapp.chatActivity" />
+        <activity android:name="com.vishal.chatapp.setProfile" />
+        <activity android:name="com.vishal.chatapp.otpAuthentication" />
+        <activity android:name="com.vishal.chatapp.MainActivity" />
+        <activity android:name="com.vishal.chatapp.splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

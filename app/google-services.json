@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "234133929228",
+    "firebase_url": "https://chatapp1-83e51-default-rtdb.firebaseio.com",
+    "project_id": "chatapp1-83e51",
+    "storage_bucket": "chatapp1-83e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234133929228:android:8b9273dd5c33e789749d29",
+        "android_client_info": {
+          "package_name": "com.vishal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234133929228-pl6kihvktu794oneccrkuu75vbhmfb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMA5OLRqwOZ9gVVTyYg9W1WYgYm5JSms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234133929228-pl6kihvktu794oneccrkuu75vbhmfb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234133929228:android:d34e2abbc0dbb8f1749d29",
+        "android_client_info": {
+          "package_name": "com.vishal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234133929228-9lvl3ogas67n9f6h7inch15o0etqbujm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishal.chatapp",
+            "certificate_hash": "ea32bc7755c85c8469648b858214521eeadee911"
+          }
+        },
+        {
+          "client_id": "234133929228-pl6kihvktu794oneccrkuu75vbhmfb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMA5OLRqwOZ9gVVTyYg9W1WYgYm5JSms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234133929228-pl6kihvktu794oneccrkuu75vbhmfb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
